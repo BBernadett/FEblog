@@ -40,9 +40,7 @@ ul li::marker {
     color: #7e9758;
 }
 
-/*nav {
-    margin-top: 10px;
-}*/
+
 nav ul {
     display: inline-block;
     margin: 0 0 80px 0;
